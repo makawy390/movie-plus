@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Amiri:ital,wght@0,400;0,700;1,700&family=Lato:ital,wght@0,400;1,300;1,900&family=Montserrat+Alternates:ital,wght@0,400;0,600;1,300;1,600&display=swap');
+
+*{
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+body{
+  background-color:#1b202b!important;
+  color: #fff !important;
+}
+.navbar{
+  background-color: #2c3664;
+ 
+}
+a{
+  color: #fff !important;
+}
+a.active{
+  color: #e91e63 !important;
+}
+.footer{
+  /* background-color: #1b202b; */
+  display: flex;
+  color: #fff;
+  padding: 15px;
+}
+.footer h5 span{
+  color: #e91e63;
+}
+.navbar-brand span{
+  color: #e91e63;
+}
+svg{
+  font-size: 20px;
+  color: #e91e63;
+}
